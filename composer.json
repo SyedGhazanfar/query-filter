@@ -22,16 +22,18 @@
             "Laravie\\QueryFilter\\Tests\\" : "tests/"
         }
     },
-    "require": {
-        "php": "^7.3 || ^8.0",
-        "illuminate/database": "^8.67 || ^9.0",
-        "illuminate/support": "^8.67 || ^9.0"
+   
+ "require": {
+        "php": "^7.3 || ^8.0 || 8.1",
+        "illuminate/database": "10.x-dev",
+        "illuminate/support": "10.x-dev"
     },
     "require-dev": {
-        "nunomaduro/larastan": "^1.0.1",
-        "orchestra/canvas": "^6.7 || ^7.0",
-        "orchestra/testbench": "^6.22 || ^7.0"
+        "nunomaduro/larastan": "3.0.x-dev",
+        "orchestra/canvas": "8.0.x-dev",
+        "orchestra/testbench": "8.0.x-dev"
     },
+
     "config": {
         "sort-packages": true
     },
