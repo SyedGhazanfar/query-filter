@@ -6,7 +6,8 @@
     "authors": [
         {
             "name": "Syed Ghazanfar",
-            "email": "hafizghazanfar499@gmail.com"
+            "email": "hafizghazanfar499@gmail.com",
+            "homepage": "https://github.com/SyedGhazanfar/query-filter"
         }
     ],
     "autoload": {
